@@ -1,2 +1,2 @@
-# DemoRepo
+# DemoRepository
 Demo Repository for classwork
